@@ -1,0 +1,3 @@
+# Create a ship with primary torpedo store stocked but fails on fire attempt
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # Should fail to fire from primary and not try secondary
