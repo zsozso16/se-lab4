@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500 (indicates the operation was successful)
+SUCCESS  # <- TORPEDO  (indicates the torpedo was successfully fired from the primary store)
+FAIL  # <- GT4500 (indicates failure due to no torpedoes left in primary or secondary)

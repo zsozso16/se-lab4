@@ -1,0 +1,3 @@
+# Create a ship with the primary torpedo store empty and the secondary store stocked
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # Should attempt firing from secondary store due to empty primary
