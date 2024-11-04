@@ -1,0 +1,4 @@
+GT4500,1,0,1,0  # GT4500 has 1 torpedo in the primary store and 1 in the secondary store
+TORPEDO,SINGLE   # First firing attempt in SINGLE mode (should fire from primary)
+TORPEDO,SINGLE
+TORPEDO,SINGLE
